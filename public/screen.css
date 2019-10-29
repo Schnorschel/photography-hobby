@@ -1,5 +1,17 @@
 :root {
   font: 16px / 1 sans-serif;
+  font-family: "Verdana";
+}
+
+h1 { 
+  font-size: 2em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #5D6063;
+}
+
+h2 { 
+  font-size: 1.6em;
+  padding-bottom: 0.25em;
 }
 
 html {
@@ -7,6 +19,8 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 2em;
   min-height: 100%;
+  color: #414141;   
+  background-color: #EEEEEE;
 }
